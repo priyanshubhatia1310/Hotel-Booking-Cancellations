@@ -25,7 +25,7 @@ We have introduced a few new columns that will be utilized for reporting and ana
 
 - **PivotTable4**: To get the Total Booking hotelwise.
 
-- ** PivotTable5**: To get the Cancelled bookings hotelwise.
+- **PivotTable5**: To get the Cancelled bookings hotelwise.
 
 ## Data Visualizations
 
